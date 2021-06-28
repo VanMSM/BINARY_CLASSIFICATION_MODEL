@@ -43,7 +43,7 @@ Before running the application first install and verify the following dependenci
 ```python
 pip install pandas
 ```
-* Tensor Flow 
+* Tensor Flow from PyPI
 ```python
 pip install --upgrade tensorflow
 ```

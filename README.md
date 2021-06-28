@@ -70,9 +70,6 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import Sequential
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
-
-import warnings
-warnings.filterwarnings('ignore')
 ```
 
 Clone to your repo and run
